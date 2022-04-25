@@ -1,7 +1,7 @@
 #sobre mim
 - 👋 OI,eu sou o *@Joao*
-- 👀 Eu  sou interessado em jogos
-- 🌱 I’m currently learning a criar jogos
+- 👀 Eu  sou interessado em *jogos*
+- 🌱 Atualmente eu estou aprendendo a criar jogos
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
